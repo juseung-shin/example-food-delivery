@@ -35,7 +35,8 @@
 ![SAGA_01](https://github.com/user-attachments/assets/27f827f9-de00-4948-b4db-21dc101b728d)
 ![SAGA_02](https://github.com/user-attachments/assets/d2199c65-59e1-4cd8-bc42-22a1dbe19992)
 ![SAGA_03](https://github.com/user-attachments/assets/6c3a14fe-8fc2-4f19-9b24-51f09f811d94)
-
+![ingress_gateway](https://github.com/user-attachments/assets/3dcf0451-5132-4a05-bcd6-e67d9461b18e)
+![event-storming](https://github.com/user-attachments/assets/e4077709-7df7-4e3d-a1a4-3daad1d1276d)
 
 
 
