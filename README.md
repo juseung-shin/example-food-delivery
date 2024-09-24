@@ -1,4 +1,47 @@
-![image](https://user-images.githubusercontent.com/487999/79708354-29074a80-82fa-11ea-80df-0db3962fb453.png)
+
+![게이트웨이_00](https://github.com/user-attachments/assets/208e78eb-28ee-4b54-aaad-725efed392d6)
+![게이트웨이_01](https://github.com/user-attachments/assets/28566a7e-5857-41ed-a20d-bbe0e043d9d3)
+![보상_00](https://github.com/user-attachments/assets/598ccc4e-5e7b-4bea-8dae-7d485ccebcea)
+![보상_01](https://github.com/user-attachments/assets/a2e5c8c9-0395-42a8-91fc-b8a9effac80a)
+![아키텍처 구성도](https://github.com/user-attachments/assets/01828877-8dc0-4425-bd51-c2df0a47e68c)
+![CI_CD_00](https://github.com/user-attachments/assets/5e999470-f47f-4be5-898b-689de87e8b65)
+![CI_CD_01](https://github.com/user-attachments/assets/26071158-563f-4012-be2b-f567bc8e4397)
+![CI_CD_02](https://github.com/user-attachments/assets/65b23715-1e9f-4d69-9c40-27d09c75cb8b)
+![config_secret_01](https://github.com/user-attachments/assets/3d36d2af-e1bb-4f03-aa86-d0b7608ba7b4)
+![config_sercret_00](https://github.com/user-attachments/assets/21c69d36-46a0-49d8-a819-40b53dc1cd9e)
+![config_sercret_02](https://github.com/user-attachments/assets/c647bd5e-56fd-43fe-b5dd-39f863c08c6c)
+![CQRS_00](https://github.com/user-attachments/assets/27611f70-5dcd-4f1a-8daa-d012b5b3e4e8)
+![CQRS_01](https://github.com/user-attachments/assets/016cb86a-75db-4676-82ca-0a8090f4839f)
+![hpa_00](https://github.com/user-attachments/assets/fc606570-3de9-414c-8c7f-e052d2fd8cc8)
+![hpa_01](https://github.com/user-attachments/assets/cb66ada0-a9ba-446e-a1b5-33b0b8d92eca)
+![hpa_02](https://github.com/user-attachments/assets/3c67ae39-93ff-4415-9bd2-5b6e309bd93d)
+![hpa_03](https://github.com/user-attachments/assets/fda1c686-a179-4d58-832e-213bb4a80ffb)
+![ingress_게이트웨이_00](https://github.com/user-attachments/assets/5d3d9d11-e945-44f7-9dcc-b87a13f895be)
+![ingress_게이트웨이_01](https://github.com/user-attachments/assets/b455904a-a781-4709-a80e-480c8f0feed8)
+![istio_00](https://github.com/user-attachments/assets/86863cf8-0001-42ce-b162-57938fea8a61)
+![istio_01](https://github.com/user-attachments/assets/aa552f86-0653-4cde-b04f-b8b665bed14b)
+![istio_02](https://github.com/user-attachments/assets/acb8dead-70f4-4096-b99f-9697c5105940)
+![livenessProbe_00](https://github.com/user-attachments/assets/2cfadee1-82cf-433e-890d-1de7b2f36b9e)
+![livenessProbe_01](https://github.com/user-attachments/assets/230ec3c9-36f9-4dfd-9c22-a487bcee9a23)
+![log](https://github.com/user-attachments/assets/384f45b7-3d42-43bc-8a80-c9486132fc79)
+![ob](https://github.com/user-attachments/assets/b62e620f-3eb1-4094-93f5-a28996fc48ec)
+![pvc_01](https://github.com/user-attachments/assets/cb7a1ea5-1a20-4338-b44d-c8192fb62a83)
+![pvc_02](https://github.com/user-attachments/assets/15896bb7-823f-45bd-bb85-d811f284c28f)
+![pvc_03](https://github.com/user-attachments/assets/efc4b76c-fa14-4a4c-a219-ab627500632d)
+![readinessProbe_01](https://github.com/user-attachments/assets/7e6f1ada-e4df-42c3-b01c-9e50802c528e)
+![readinessProbe_02](https://github.com/user-attachments/assets/451a9e35-c924-49f7-9bfb-80d0cf6f1cd3)
+![readinessProbe_03](https://github.com/user-attachments/assets/fd9eff8a-cbaf-46b8-8c70-b9b0da487c44)
+![SAGA_00](https://github.com/user-attachments/assets/084ebe54-188a-4c6a-9067-ba3c77c22f07)
+![SAGA_01](https://github.com/user-attachments/assets/27f827f9-de00-4948-b4db-21dc101b728d)
+![SAGA_02](https://github.com/user-attachments/assets/d2199c65-59e1-4cd8-bc42-22a1dbe19992)
+![SAGA_03](https://github.com/user-attachments/assets/6c3a14fe-8fc2-4f19-9b24-51f09f811d94)
+
+
+
+
+
+
+
 
 # 예제 - 음식배달
 
