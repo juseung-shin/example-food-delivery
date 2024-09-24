@@ -3,7 +3,6 @@
 ![게이트웨이_01](https://github.com/user-attachments/assets/28566a7e-5857-41ed-a20d-bbe0e043d9d3)
 ![보상_00](https://github.com/user-attachments/assets/598ccc4e-5e7b-4bea-8dae-7d485ccebcea)
 ![보상_01](https://github.com/user-attachments/assets/a2e5c8c9-0395-42a8-91fc-b8a9effac80a)
-![아키텍처 구성도](https://github.com/user-attachments/assets/01828877-8dc0-4425-bd51-c2df0a47e68c)
 ![CI_CD_00](https://github.com/user-attachments/assets/5e999470-f47f-4be5-898b-689de87e8b65)
 ![CI_CD_01](https://github.com/user-attachments/assets/26071158-563f-4012-be2b-f567bc8e4397)
 ![CI_CD_02](https://github.com/user-attachments/assets/65b23715-1e9f-4d69-9c40-27d09c75cb8b)
@@ -37,7 +36,7 @@
 ![SAGA_03](https://github.com/user-attachments/assets/6c3a14fe-8fc2-4f19-9b24-51f09f811d94)
 ![ingress_gateway](https://github.com/user-attachments/assets/3dcf0451-5132-4a05-bcd6-e67d9461b18e)
 ![event-storming](https://github.com/user-attachments/assets/e4077709-7df7-4e3d-a1a4-3daad1d1276d)
-
+![구성도_01](https://github.com/user-attachments/assets/ae6518bd-05f4-4495-883f-91a8cf624afd)
 
 
 
