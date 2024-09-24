@@ -36,9 +36,7 @@
 ![SAGA_03](https://github.com/user-attachments/assets/6c3a14fe-8fc2-4f19-9b24-51f09f811d94)
 ![ingress_gateway](https://github.com/user-attachments/assets/3dcf0451-5132-4a05-bcd6-e67d9461b18e)
 ![event-storming](https://github.com/user-attachments/assets/e4077709-7df7-4e3d-a1a4-3daad1d1276d)
-![구성도_01](https://github.com/user-attachments/assets/ae6518bd-05f4-4495-883f-91a8cf624afd)
-
-
+![구성도01](https://github.com/user-attachments/assets/1506eeb1-d240-403f-ae1d-58a23e055c63)
 
 
 
