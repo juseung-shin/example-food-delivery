@@ -79,6 +79,7 @@ User CPU 사용률은 50% 이다.
 ![config_sercret_02](https://github.com/user-attachments/assets/c647bd5e-56fd-43fe-b5dd-39f863c08c6c)
 
 - PVC
+- Kubernetes에서 영구 스토리지 자원을 요청하는 방식
 ![pvc_01](https://github.com/user-attachments/assets/cb7a1ea5-1a20-4338-b44d-c8192fb62a83)
 ![pvc_02](https://github.com/user-attachments/assets/15896bb7-823f-45bd-bb85-d811f284c28f)
 ![pvc_03](https://github.com/user-attachments/assets/efc4b76c-fa14-4a4c-a219-ab627500632d)
