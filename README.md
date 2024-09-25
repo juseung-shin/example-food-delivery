@@ -47,6 +47,7 @@
  ![ingress_게이트웨이_01](https://github.com/user-attachments/assets/b455904a-a781-4709-a80e-480c8f0feed8)
 
 - CQRS
+  - Command and Query Responsibility Segregation   
   - 하나의 저장소에 쓰기 모델과 읽기 모델을 분리하는 방식으로 변화시켜 쓰기 서비스와 조회서비스를 분리해 저장소 처리 성능을 향상  
 - 사용자는 시스템에서 자신의 대여 기록 및 상태를 조회할 수 있습니다.
 ![CQRS_00](https://github.com/user-attachments/assets/27611f70-5dcd-4f1a-8daa-d012b5b3e4e8)
@@ -88,6 +89,12 @@ User CPU 사용률은 50% 이다.
 - 문제가 있는 컨테이너를 자동으로 재시작하거나 종료
 - 임의로 해당 pod를 프로세스를 죽임
 ![livenessProbe_00](https://github.com/user-attachments/assets/2cfadee1-82cf-433e-890d-1de7b2f36b9e)
+
+- initialDelaySeconds : 컨테이너가 시작된 후, Probe가작동하기까지딜레이시간
+- periodSeconds : Probe를 수행하는주기(빈도
+- timeoutSeconds : Probe가 작동하고최대기다리는시간(타임아웃)
+- failureThreshold : Probe가 최종 실패로 간주하는회수
+
 ![livenessProbe_01](https://github.com/user-attachments/assets/1e407dcb-e1b6-416b-956d-9d7200085da1)
 ![livenessProbe_02](https://github.com/user-attachments/assets/230ec3c9-36f9-4dfd-9c22-a487bcee9a23)
 
