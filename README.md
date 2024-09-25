@@ -91,7 +91,7 @@ User CPU 사용률은 50% 이다.
 ![livenessProbe_00](https://github.com/user-attachments/assets/2cfadee1-82cf-433e-890d-1de7b2f36b9e)
 
 - initialDelaySeconds : 컨테이너가 시작된 후, Probe가작동하기까지딜레이시간
-- periodSeconds : Probe를 수행하는주기(빈도
+- periodSeconds : Probe를 수행하는주기(빈도)
 - timeoutSeconds : Probe가 작동하고최대기다리는시간(타임아웃)
 - failureThreshold : Probe가 최종 실패로 간주하는회수
 
