@@ -72,8 +72,8 @@ User CPU 사용률은 50% 이다.
 - ConfigpMap/Secret
   - ConfigpMap은 컨테이너 이미지로부터 설정 정보를 분리해 주는 리소스 타입
   - Secret은 보안이 중 요한 패스워드나 API 키, 인증서 파일들은 Secret에 저장
-![configmap_yml](https://github.com/user-attachments/assets/1a431505-3242-4e1d-95c1-a4aba1b76cdf)
-![secret](https://github.com/user-attachments/assets/aa17bb65-8e3a-4dac-b617-f8dd5940f4ab) 
+![configmap_yml](https://github.com/user-attachments/assets/d31d5dd6-e57d-4995-ad0d-d2f2e7bc0c3d)
+![secret](https://github.com/user-attachments/assets/ce60fa6f-2981-4370-9cbe-d9b6564c518f)
 ![config_secret_01](https://github.com/user-attachments/assets/3d36d2af-e1bb-4f03-aa86-d0b7608ba7b4)
 ![config_sercret_00](https://github.com/user-attachments/assets/21c69d36-46a0-49d8-a819-40b53dc1cd9e)
 ![config_sercret_02](https://github.com/user-attachments/assets/c647bd5e-56fd-43fe-b5dd-39f863c08c6c)
@@ -88,7 +88,8 @@ User CPU 사용률은 50% 이다.
 - 문제가 있는 컨테이너를 자동으로 재시작하거나 종료
 - 임의로 해당 pod를 프로세스를 죽임
 ![livenessProbe_00](https://github.com/user-attachments/assets/2cfadee1-82cf-433e-890d-1de7b2f36b9e)
-![livenessProbe_01](https://github.com/user-attachments/assets/230ec3c9-36f9-4dfd-9c22-a487bcee9a23)
+![livenessProbe_01](https://github.com/user-attachments/assets/1e407dcb-e1b6-416b-956d-9d7200085da1)
+![livenessProbe_02](https://github.com/user-attachments/assets/230ec3c9-36f9-4dfd-9c22-a487bcee9a23)
 
 - ReadinessProbe
 - 설정 없이 요청 상태에서 재배포
