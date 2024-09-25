@@ -72,6 +72,8 @@ User CPU 사용률은 50% 이다.
 - ConfigpMap/Secret
   - ConfigpMap은 컨테이너 이미지로부터 설정 정보를 분리해 주는 리소스 타입
   - Secret은 보안이 중 요한 패스워드나 API 키, 인증서 파일들은 Secret에 저장
+![configmap_yml](https://github.com/user-attachments/assets/1a431505-3242-4e1d-95c1-a4aba1b76cdf)
+![secret](https://github.com/user-attachments/assets/aa17bb65-8e3a-4dac-b617-f8dd5940f4ab) 
 ![config_secret_01](https://github.com/user-attachments/assets/3d36d2af-e1bb-4f03-aa86-d0b7608ba7b4)
 ![config_sercret_00](https://github.com/user-attachments/assets/21c69d36-46a0-49d8-a819-40b53dc1cd9e)
 ![config_sercret_02](https://github.com/user-attachments/assets/c647bd5e-56fd-43fe-b5dd-39f863c08c6c)
